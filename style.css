@@ -1,0 +1,87 @@
+#logo-img {
+  width: 70px;
+  height: auto;
+}
+
+#btn2{
+  height: 40px;
+  
+}
+
+
+span{
+  color: rgb(50, 174, 222);
+}
+.list{
+  list-style: none;
+  font-size: 18px;
+}
+
+.banne-contact p{
+  font-size: 17px;
+}
+
+.banne-contact ul li i{
+  color: rgb(55, 147, 183);
+}
+
+.banerBtn button{
+  width: 40%;
+  padding: 10px;
+}
+.banerForm{
+  padding: 40px;
+  border-radius: 10px;
+  
+  
+}
+.regiBtn{
+  width: 100%;
+
+padding: 10px 0px;
+border: none;
+color: white;
+background:linear-gradient(to right,#0acefe,#2699fb);
+  
+}
+
+.niche h3{
+  font-size: 30px;
+  font-weight: 700;
+   color: #0a5669;
+}
+
+.highlight{
+  background-color: #f7faff;
+}
+.highlight h2{
+  font-size: 36px;
+  color: #0a2134;
+  font-weight: 700;
+}
+.fuck i{
+  font-size: 40px;
+  margin-right: 13px;
+  
+}
+.chut{
+  margin-top: 25px;
+  text-align: center;
+}
+.chut button{
+  border-radius: 3px;
+  border: none;
+  height: 40px;
+  width: 210px;
+  background:linear-gradient(to right,#0acefe,#2699fb);
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+
+}
+
+
+
+.tatti{
+  font-weight: bold;
+}

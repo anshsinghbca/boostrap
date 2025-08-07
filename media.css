@@ -1,0 +1,55 @@
+
+@media only screen and (max-width:575px) {
+  .btn-outer{
+    position:fixed;
+    bottom: 0px;
+    margin-left:25px;
+    
+    padding: 5px 0px;
+
+  }
+  .banne-contact p{
+  font-size: 14px;
+}
+.list{
+ 
+  font-size: 14px;
+}
+.banerBtn {
+  flex-direction: column;
+}
+.banerBtn button{
+  width: 100%;
+}
+
+.regiBtn{
+  width: 100%;
+}
+.banerForm{
+  margin-top: 12px;
+  padding: 20px;
+}
+
+.highlight h2{
+  font-size:26px;
+ 
+  
+}
+}
+
+
+
+
+
+
+
+
+    
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 1170px;
+    }
+}
+
+
